@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Intermediate</Level>
+	<Tags>Xamarin.Forms, Map, WebView</Tags>
+	<SupportedPlatforms>Android, iOS, UWP, GTK, WPF</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>Movies is a Xamarin.Forms application that makes use of The Movie Database (TMDb) API, a popular, user editable database for movies and TV shows.</Brief>
+</SampleMetadata>

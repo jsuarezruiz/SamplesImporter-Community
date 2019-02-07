@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Intermediate</Level>
+	<Tags>Xamarin.Forms, SkiaSharp</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>Pulse Music is a Xamarin.Forms sample to show how to create goodlooking UI with Xamarin.Forms. This sample is based on Music Player App designed by Anish Chandran.</Brief>
+</SampleMetadata>

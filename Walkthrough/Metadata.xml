@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Intermediate</Level>
+	<Tags>Xamarin.Forms, Lottie</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>WalkthroughApp is a Xamarin.Forms application that makes use CarouselView and Lottie, to demonstrate the possibilities of creating a fluid and powerful Walkthrough without requiere Custom Renderers.</Brief>
+</SampleMetadata>
