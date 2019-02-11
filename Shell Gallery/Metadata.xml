@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, Shell</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>Gallery showcasing Shell from the Xamarin.Forms Control Gallery.</Brief>
+	<DownloadUrl>https://github.com/davidortinau/ShellGallery/archive/master.zip</DownloadUrl>
+	<Author>David Ortinau</Author>
+</SampleMetadata>
