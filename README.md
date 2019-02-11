@@ -18,6 +18,7 @@ Easy, just send a PR with your sample!. Remember to meet the following requireme
     <SupportedPlatforms>Android, iOS</SupportedPlatforms>
     <Gallery>true</Gallery>
     <Brief>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam malesuada arcu id porta consequat. .</Brief>
+    <Author>Javier Suarez</Author>
 </SampleMetadata>
 
 ```
@@ -33,6 +34,7 @@ Or just include the DownloadUrl in the XML file without include the sample code 
     <Gallery>true</Gallery>
     <Brief>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam malesuada arcu id porta consequat. .</Brief>
     <DownloadUrl>https://github.com/user/Sample/archive/master.zip</DownloadUrl>
+    <Author>Javier Suarez</Author>
 </SampleMetadata>
 
 ```
