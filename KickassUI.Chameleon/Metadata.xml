@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, Lottie</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>A Xamarin.Forms version of the Chameleon app to prove you can create goodlooking UI with Xamarin.Forms.</Brief>
+	<DownloadUrl>https://github.com/sthewissen/KickassUI.Chameleon/archive/master.zip</DownloadUrl>
+</SampleMetadata>

@@ -21,6 +21,22 @@ Easy, just send a PR with your sample!. Remember to meet the following requireme
 </SampleMetadata>
 
 ```
+
+Or just include the DownloadUrl in the XML file without include the sample code in the repository:
+
+```
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+    <Level>Intermediate</Level>
+    <Tags>Xamarin.Forms, SkiaSharp</Tags>
+    <SupportedPlatforms>Android, iOS</SupportedPlatforms>
+    <Gallery>true</Gallery>
+    <Brief>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam malesuada arcu id porta consequat. .</Brief>
+    <DownloadUrl>https://github.com/user/Sample/archive/master.zip</DownloadUrl>
+</SampleMetadata>
+
+```
+
 ## Copyright and license
 
 Code released under the [MIT license](https://opensource.org/licenses/MIT).
