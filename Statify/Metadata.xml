@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, VisualStateManager</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>Xamarin.Forms VisualStateManager Example.</Brief>
+	<DownloadUrl>https://github.com/davidortinau/statify/archive/master.zip</DownloadUrl>
+	<Author>David Ortinau</Author>
+</SampleMetadata>

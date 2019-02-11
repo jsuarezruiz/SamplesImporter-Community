@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, ListView</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>A timeline of activities. This is useful for things like transportation schedules or class times.</Brief>
+	<DownloadUrl>https://github.com/kphillpotts/XamarinFormsLayoutChallenges/archive/master.zip</DownloadUrl>
+	<Author>Kym Phillpotts</Author>
+</SampleMetadata>
