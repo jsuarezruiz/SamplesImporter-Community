@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, SkiaSharp</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>A bike activity App. Sample to show Microcharts usage.</Brief>
+	<DownloadUrl>https://github.com/aloisdeniel/Microcharts.Samples/archive/master.zip</DownloadUrl>
+	<Author>Aloïs Deniel</Author>
+</SampleMetadata>

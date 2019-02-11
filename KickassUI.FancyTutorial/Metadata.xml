@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, Carousel</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>A simple (but beautiful) Xamarin.Forms tutorial screen.</Brief>
+	<DownloadUrl>https://github.com/sthewissen/KickassUI.FancyTutorial/archive/master.zip</DownloadUrl>
+	<Author>Steven Thewissen</Author>
+</SampleMetadata>
