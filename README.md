@@ -1,6 +1,6 @@
 # Community Samples for VS4Mac Samples Importer addin
 
-Community samples section for VS4Mac Samples Importer addin. 
+Community samples section for [VS4Mac Samples Importer addin](https://github.com/jsuarezruiz/VS4Mac-SamplesImporter). 
 
 ### How can I add a sample?
 
