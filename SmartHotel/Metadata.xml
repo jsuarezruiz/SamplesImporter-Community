@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Advanced</Level>
+	<Tags>Xamarin.Forms, Animations, Map</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+	<LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+	<Brief>Travelers are always on the go, so SmartHotel360 offers a beautiful fully-native cross-device mobile app for guests and business travelers built with Xamarin. In this app guests and business travelers can book rooms and smart conference rooms as well as customize room temperature and lighting settings. The mobile app is available in iOS, Android, and Windows.</Brief>
+	<DownloadUrl>https://github.com/jsuarezruiz/SmartHotel360-mobile-desktop-apps/archive/master.zip</DownloadUrl>
+</SampleMetadata>
